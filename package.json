@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "express": "^4.17.2",
-    "opensea-js": "^1.2.7"
+    "opensea-js": "^1.2.7",
+    "web3": "^1.7.0"
   }
 }
